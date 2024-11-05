@@ -6,9 +6,9 @@ Exercícios do **Capítulo 03 - Estrutura Sequencial**, com base no livro *Funda
 
 - **Exercícios**: Cada exercício do Capítulo 03 foi resolvido em arquivos Java, organizados para facilitar o acesso e revisão.
 - **Divisão de Tarefas**:
-  - **Vitor Melo**: Exercícios X a Y
-  - **Vitor Emanuel**: Exercícios A a B
-  - **Leandson**: Exercícios C a D
+  - **Vitor Melo**: Exercícios 1 a 8
+  - **Vitor Emanuel**: Exercícios 9 a 16
+  - **Leandson**: Exercícios 17 a 25
 
 ## Créditos
 
